@@ -3,3 +3,4 @@ data/
 .env
 project_architecture.txt
 .gradio
+.DS_Store
